@@ -12,6 +12,7 @@ Tools & Tech
 React, TypeScript, Tailwind, Python, C/C++
 Framer Motion for animations
 Figma,
+
 A Bit About Me
 🍵 Not a coffee or tea person
 🎴 Into anime — Naruto being my first ever and my favorite
